@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 21:31:44 GMT
+// Generated on Thu, 18 Nov 2021 21:33:37 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorBrandGrey,
+ColorGrey,
 ColorBrandBeige,
 ColorBrandWhite,
 ColorColorsTeal,
