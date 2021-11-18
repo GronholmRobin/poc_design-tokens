@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 15:39:30 GMT
+// Generated on Thu, 18 Nov 2021 15:50:16 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -13,7 +13,6 @@ typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 BordersSingleStroke,
 BordersDashedOutsideStroke,
 BordersSingleStyleStroke,
-BordersUnsupportedMultipleBordersStroke,
 GradientGradientSingleWithMultipleColorStopsStops0Color,
 GradientGradientSingleWithMultipleColorStopsStops1Color,
 GradientGradientSingleWithMultipleColorStopsStops2Color,

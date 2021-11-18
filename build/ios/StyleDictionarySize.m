@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 15:39:30 GMT
+// Generated on Thu, 18 Nov 2021 15:50:16 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -44,8 +44,6 @@ float const BordersDashedOutsideStrokeMiterLimit = 4;
 float const BordersDashedOutsideStrokeWeight = 5;
 float const BordersSingleStyleStrokeMiterLimit = 4;
 float const BordersSingleStyleStrokeWeight = 5;
-float const BordersUnsupportedMultipleBordersStrokeMiterLimit = 4;
-float const BordersUnsupportedMultipleBordersStrokeWeight = 5;
 float const Radius5RadiiTopLeft = 5;
 float const Radius5RadiiTopRight = 5;
 float const Radius5RadiiBottomRight = 5;
@@ -63,26 +61,6 @@ float const RadiiMixedRadiiTopRight = 10;
 float const RadiiMixedRadiiBottomRight = 15;
 float const RadiiMixedRadiiBottomLeft = 20;
 float const RadiiMixedSmoothing = 0;
-float const MotionMoveInDuration = 0.5;
-float const MotionMoveInEasingFunctionX1 = 0.41999998688697815;
-float const MotionMoveInEasingFunctionX2 = 1;
-float const MotionMoveInEasingFunctionY1 = 0;
-float const MotionMoveInEasingFunctionY2 = 1;
-float const MotionDissolveDuration = 0.45;
-float const MotionDissolveEasingFunctionX1 = 0.6968395709991455;
-float const MotionDissolveEasingFunctionX2 = 0.06683959811925888;
-float const MotionDissolveEasingFunctionY1 = 0.052326660603284836;
-float const MotionDissolveEasingFunctionY2 = 0.9323266744613647;
-float const MotionSmartDuration = 0.5;
-float const MotionSmartEasingFunctionX1 = 0;
-float const MotionSmartEasingFunctionX2 = 1;
-float const MotionSmartEasingFunctionY1 = 0;
-float const MotionSmartEasingFunctionY2 = 1;
-float const MotionPushDuration = 0.5;
-float const MotionPushEasingFunctionX1 = 0.30000001192092896;
-float const MotionPushEasingFunctionX2 = 0.699999988079071;
-float const MotionPushEasingFunctionY1 = -0.05000000074505806;
-float const MotionPushEasingFunctionY2 = -0.5;
 float const GradientGradientSingleWithMultipleColorStopsRotation = 180;
 float const GradientGradientSingleWithMultipleColorStopsStops0Position = 0;
 float const GradientGradientSingleWithMultipleColorStopsStops1Position = 0.34;

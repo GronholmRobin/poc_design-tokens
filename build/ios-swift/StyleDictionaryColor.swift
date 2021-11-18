@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 15:39:30 GMT
+// Generated on Thu, 18 Nov 2021 15:50:16 GMT
 
 
 import UIKit
@@ -36,5 +36,4 @@ public enum StyleDictionaryColor {
     public static let lightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let singleStroke = rgba(0, 0, 0, 1)
     public static let singleStyleStroke = rgba(4, 74, 255, 1)
-    public static let unsupportedMultipleBordersStroke = rgba(255, 230, 0, 1)
 }

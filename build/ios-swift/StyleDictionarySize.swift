@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 15:39:30 GMT
+// Generated on Thu, 18 Nov 2021 15:50:16 GMT
 
 
 import UIKit
@@ -59,11 +59,6 @@ public enum StyleDictionarySize {
     public static let bodySuperParagraphSpacing = "0"
     public static let dashedOutsideStrokeMiterLimit = 4
     public static let dashedOutsideStrokeWeight = 5
-    public static let dissolveDuration = 0.45
-    public static let dissolveEasingFunctionX1 = 0.6968395709991455
-    public static let dissolveEasingFunctionX2 = 0.06683959811925888
-    public static let dissolveEasingFunctionY1 = 0.052326660603284836
-    public static let dissolveEasingFunctionY2 = 0.9323266744613647
     public static let dropShadowSingleOffsetX = 0
     public static let dropShadowSingleOffsetY = 4
     public static let dropShadowSingleRadius = 4
@@ -118,11 +113,6 @@ public enum StyleDictionarySize {
     public static let mixedRight = 20
     public static let mixedSmoothing = 0
     public static let mixedTop = 10
-    public static let moveInDuration = 0.5
-    public static let moveInEasingFunctionX1 = 0.41999998688697815
-    public static let moveInEasingFunctionX2 = 1
-    public static let moveInEasingFunctionY1 = 0
-    public static let moveInEasingFunctionY2 = 1
     public static let multiple0Count = 7
     public static let multiple0GutterSize = 20
     public static let multiple0Offset = 3
@@ -150,11 +140,6 @@ public enum StyleDictionarySize {
     public static let multiple6SectionSize = 8
     public static let multiple7SectionSize = 8
     public static let plainToken = 200
-    public static let pushDuration = 0.5
-    public static let pushEasingFunctionX1 = 0.30000001192092896
-    public static let pushEasingFunctionX2 = 0.699999988079071
-    public static let pushEasingFunctionY1 = -0.05000000074505806
-    public static let pushEasingFunctionY2 = -0.5
     public static let rect = 32
     public static let shapeInComponent = 32 /* Should use 32px not 20 from inside shape */
     public static let singleCount = 5
@@ -165,11 +150,6 @@ public enum StyleDictionarySize {
     public static let singleStyleStrokeMiterLimit = 4
     public static let singleStyleStrokeWeight = 5
     public static let sm = 768
-    public static let smartDuration = 0.5
-    public static let smartEasingFunctionX1 = 0
-    public static let smartEasingFunctionX2 = 1
-    public static let smartEasingFunctionY1 = 0
-    public static let smartEasingFunctionY2 = 1
     public static let smoothingRadiiBottomLeft = 10
     public static let smoothingRadiiBottomRight = 10
     public static let smoothingRadiiTopLeft = 10
@@ -182,6 +162,4 @@ public enum StyleDictionarySize {
     public static let topLeft = 0
     public static let topRight = 0
     public static let topTop = 10
-    public static let unsupportedMultipleBordersStrokeMiterLimit = 4
-    public static let unsupportedMultipleBordersStrokeWeight = 5
 }
