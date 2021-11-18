@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 18:16:10 GMT
+// Generated on Thu, 18 Nov 2021 18:54:11 GMT
 
 
 import UIKit
@@ -246,7 +246,7 @@ public class StyleDictionary {
     public static let radius5Radius = 5
     public static let radius5RadiusType = single
     public static let radius5Smoothing = 0
-    public static let sizes32 = 32.72 /* 32.72px spacer component */
+    public static let sizes32 = 32 /* 32px spacer component */
     public static let sizes40 = 40
     public static let sizes60 = 60
     public static let sizes80 = 80

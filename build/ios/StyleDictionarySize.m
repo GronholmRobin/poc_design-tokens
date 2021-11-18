@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 18:16:10 GMT
+// Generated on Thu, 18 Nov 2021 18:54:11 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const Sizes32 = 32.72;
+float const Sizes32 = 32;
 float const Sizes40 = 40;
 float const Sizes60 = 60;
 float const Sizes80 = 80;

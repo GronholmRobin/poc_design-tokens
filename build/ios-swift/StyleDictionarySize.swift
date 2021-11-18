@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 18:16:10 GMT
+// Generated on Thu, 18 Nov 2021 18:54:11 GMT
 
 
 import UIKit
@@ -14,7 +14,7 @@ public enum StyleDictionarySize {
     public static let 10Left = 10
     public static let 10Right = 10
     public static let 10Top = 10
-    public static let 32 = 32.72 /* 32.72px spacer component */
+    public static let 32 = 32 /* 32px spacer component */
     public static let 40 = 40
     public static let 5RadiiBottomLeft = 5
     public static let 5RadiiBottomRight = 5

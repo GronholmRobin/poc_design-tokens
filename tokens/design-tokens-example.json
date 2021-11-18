@@ -3,8 +3,8 @@
     "32": {
       "category": "size",
       "exportKey": "size",
-      "comment": "32.72px spacer component",
-      "value": 32.72,
+      "comment": "32px spacer component",
+      "value": 32,
       "type": "number",
       "unit": "pixel"
     },
