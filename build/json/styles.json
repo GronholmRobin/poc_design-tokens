@@ -1,5 +1,9 @@
 {
   "BreakpointsLg": 1280,
   "BreakpointsSm": 768,
-  "BreakpointsMd": 1024
+  "BreakpointsMd": 1024,
+  "Spacing10": {"top":10,"bottom":10,"left":10,"right":10},
+  "Spacing20": {"top":20,"bottom":20,"left":20,"right":20},
+  "ColorColorsTealLight": "#53c2c2",
+  "ColorColorsWhite": "#ffffff"
 }

@@ -4,38 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 18 Nov 2021 18:54:11 GMT
+// Generated on Thu, 18 Nov 2021 21:29:08 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-BordersSingleStroke,
-BordersDashedOutsideStroke,
-BordersSingleStyleStroke,
-GradientGradientSingleWithMultipleColorStopsStops0Color,
-GradientGradientSingleWithMultipleColorStopsStops1Color,
-GradientGradientSingleWithMultipleColorStopsStops2Color,
-GradientGradientSingleWithMultipleColorStopsStops3Color,
-GradientGradientMultiple0Stops0Color,
-GradientGradientMultiple0Stops1Color,
-GradientGradientMultiple1Stops0Color,
-GradientGradientMultiple1Stops1Color,
-GradientGradientMultiple2Stops0Color,
-GradientGradientMultiple2Stops1Color,
-GradientGradientMultiple3Stops0Color,
-GradientGradientMultiple3Stops1Color,
-ColorColorsMultipleFills0,
-ColorColorsMultipleFills1,
-ColorColorsSingleBlue,
-ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung,
-ColorLightBackground,
-ColorDarkBackground,
-EffectDropShadowSingleColor,
-EffectInnerShadowMultiple0Color,
-EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+ColorColorsTealLight,
+ColorColorsWhite
 };
 
 @interface StyleDictionaryColor : NSObject
